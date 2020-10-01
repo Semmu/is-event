@@ -1,0 +1,30 @@
+{
+  "name": "is-event",
+  "version": "1.0.0",
+  "description": "is even't?",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Semmu/is-event.git"
+  },
+  "keywords": [
+    "even",
+    "odd",
+    "number",
+    "boolean",
+    "math",
+    "joke"
+  ],
+  "author": "Too many beers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Semmu/is-event/issues"
+  },
+  "homepage": "https://github.com/Semmu/is-event#readme",
+  "dependencies": {
+    "is-even": "^1.0.0"
+  }
+}
